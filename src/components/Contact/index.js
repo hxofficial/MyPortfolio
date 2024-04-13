@@ -4,6 +4,8 @@ import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { Snackbar } from "@mui/material";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import MailOutlineIcon from "@mui/icons-material/MailOutline";
+
 import { Bio } from "../../data/constants";
 const Container = styled.div`
   display: flex;
@@ -157,6 +159,11 @@ const EmailLink = styled.a`
     text-decoration: underline;
   }
 `;
+const StyledMailIcon = styled(MailOutlineIcon)`
+  font-size: 2rem; // Ensuring this is applied
+  margin-right: 8px; // Adding margin
+`;
+
 const Contact = () => {
   //hooks
   const [open, setOpen] = React.useState(false);
@@ -191,9 +198,10 @@ const Contact = () => {
         </Desc>
         <EmailLink
           href="mailto:hxofficialmail@gmail.com"
-          style={{ fontSize: "1.5rem" }}
+          style={{ fontSize: "1.5rem", display: "flex", alignItems: "center" }}
         >
-          Email me
+          <MailOutlineIcon style={{ marginRight: 8, fontSize: "2rem" }} /> Email
+          me
         </EmailLink>
         {/* <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me </ContactTitle>

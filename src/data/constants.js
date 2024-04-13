@@ -191,14 +191,15 @@ export const projects = [
     image: "https://hxofficial.github.io/HackerNews/logo.png",
     tags: ["Javascript", "CSS", "HTML"],
 
-    github: "https://github.com/hxofficial/TODO",
+    github: "https://github.com/hxofficial/HackerNews",
     webapp: "https://hxofficial.github.io/HackerNews/",
   },
   {
     id: 2,
     title: "Calendar App",
     date: "JAN 2024",
-    description: "Calender is a simple app that shows the date",
+    description:
+      "Calendar is a JavaScript app that shows the date, and the user can add tasks to each day.",
     image:
       "https://i.pinimg.com/564x/6b/82/5e/6b825edd7bfec558c5923fb7564a1e0a.jpg",
     tags: [" JS", "CSS", "HTML"],
@@ -216,7 +217,7 @@ export const projects = [
       "https://i.pinimg.com/564x/80/5c/a8/805ca858b05090e54d7a4a2bb52c1426.jpg",
     tags: ["React", "CSS"],
 
-    // github: "https://github.com/hxofficial/CalendarApp",
+    github: "https://github.com/hxofficial/Weather-App",
     webapp: "https://hxofficial.github.io/Weather-App/",
   },
 ];
