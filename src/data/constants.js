@@ -187,7 +187,7 @@ export const projects = [
     title: "Hacker News Website Redesigne",
     date: "Feb 2024",
     description:
-      "HackerNews website is a popular platform for technology enproject was to apply modern web and mobile application practices to enhance user experience and interaction on the Hacker News platform, without altering its original branding and visual identity.",
+      "The project was focused on enhancing the user experience and interaction on the Hacker News website by applying modern web and mobile application practices. This initiative aimed to improve functionality while preserving the platform's original branding and visual identity.",
     image: "https://hxofficial.github.io/HackerNews/logo.png",
     tags: ["JS", "CSS", "HTML"],
 
