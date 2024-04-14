@@ -165,7 +165,6 @@ export const SubTitle = styled.div`
     line-height: 32px;
   }
 `;
-
 export const ResumeButton = styled.a`
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -187,6 +186,7 @@ export const ResumeButton = styled.a`
     background: -webkit-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
     box-shadow:  20px 20px 60px #1F2634,
     -20px -20px 60px #1F2634;
+   
     &:hover {
         transform: scale(1.05);
     transition: all 0.4s ease-in-out;

@@ -2,7 +2,7 @@ export const Bio = {
   name: "Hanieh Mardani",
   roles: ["Full Stack Developer", "Programmer"],
   description:
-    "My professional journey is quite unique—I started off in the skies as a pilot and have since transitioned into the dynamic realm of software development.I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. ",
+    "My professional journey is quite unique—I started off in the skies as a pilot and have since transitioned into the programming and development.I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. ",
   github: "https://github.com/hxofficial",
 
   resume:
@@ -176,7 +176,7 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, and Material UI.users can see all the tasks and can create a new task. ",
     image:
-      "https://i.pinimg.com/564x/17/4a/f1/174af16e506be8a0cff48c5709868fa5.jpg",
+      "https://i.pinimg.com/564x/24/51/50/245150d3136728d71bd7da2f2ecf915c.jpg",
     tags: ["React Js", "Local Storage", "Node JS"],
     category: "web app",
     github: "https://github.com/hxofficial/TODO",
@@ -184,12 +184,12 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Hacker News Websitw Redesigne",
+    title: "Hacker News Website Redesigne",
     date: "Feb 2024",
     description:
       "HackerNews website is a popular platform for technology enproject was to apply modern web and mobile application practices to enhance user experience and interaction on the Hacker News platform, without altering its original branding and visual identity.",
     image: "https://hxofficial.github.io/HackerNews/logo.png",
-    tags: ["Javascript", "CSS", "HTML"],
+    tags: ["JS", "CSS", "HTML"],
 
     github: "https://github.com/hxofficial/HackerNews",
     webapp: "https://hxofficial.github.io/HackerNews/",
@@ -201,7 +201,7 @@ export const projects = [
     description:
       "Calendar is a JavaScript app that shows the date, and the user can add tasks to each day.",
     image:
-      "https://i.pinimg.com/564x/6b/82/5e/6b825edd7bfec558c5923fb7564a1e0a.jpg",
+      "https://i.pinimg.com/originals/c8/b9/a4/c8b9a423cf850cecfdd0f7865aca884d.gif",
     tags: [" JS", "CSS", "HTML"],
 
     github: "https://github.com/hxofficial/CalendarApp",
@@ -212,9 +212,9 @@ export const projects = [
     title: "Weather App",
     date: "Feb 2023",
     description:
-      "This application features a clean, intuitive interface that allows users to quickly search for and display weather conditions in their city or any location worldwide. Key features include daily forecasts, temperature readings (converted to Celsius), and dynamic weather icons to visually represent current conditions.",
+      "This application features a clean, intuitive interface that allows users to quickly search for and display weather conditions in their city or any location worldwide. Key features include daily forecasts, temperature readings (Celsius), and dynamic weather icons to visually represent current conditions.",
     image:
-      "https://i.pinimg.com/564x/80/5c/a8/805ca858b05090e54d7a4a2bb52c1426.jpg",
+      "https://i.pinimg.com/originals/8c/4a/c3/8c4ac371c01ddceb41fe1a15d4e9e518.gif",
     tags: ["React", "CSS"],
 
     github: "https://github.com/hxofficial/Weather-App",
