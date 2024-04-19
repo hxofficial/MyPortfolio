@@ -76,7 +76,6 @@ const index = () => {
     <Container id="experience">
       <Wrapper>
         <Title>Experience</Title>
-        <Desc></Desc>
         <TimelineSection>
           <Timeline>
             {experiences.map((experience, index) => (

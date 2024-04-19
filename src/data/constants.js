@@ -133,6 +133,14 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/C560BAQFD8DJtfC4rPg/company-logo_200_200/0/1631391795901?e=1721865600&v=beta&t=ZDLgRgqzWPHlOBaAX4VOKmh0vNcB3jRhJ07Myey9Jws",
+    role: "Full Stack Developer Intern",
+    company: "Videre Financiers Inc.",
+    date: "JAN 2024 - Present",
+    desc: "Full Stack Developer intern ",
+  },
+  {
+    id: 1,
     img: "https://i.pinimg.com/564x/2f/4c/be/2f4cbe8482d91e77f7b1fe4572d818b9.jpg",
     role: "Operational Consaltant",
     company: "Sephora Canada",
